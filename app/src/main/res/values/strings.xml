@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">ListView</string>
+	<string name="enter_course_name">Nhập tên khóa học</string>
+	<string name="button_add">Add</string>
+	<string name="button_edit">Edit</string>
+	<string name="button_cancel">Cancel</string>
+</resources>
